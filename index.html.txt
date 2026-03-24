@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>My First AWS Project</title>
+</head>
+<body>
+<h1>Hello! This is my first AWS website 🚀</h1>
+<p>Created by me</p>
+</body>
+</html>

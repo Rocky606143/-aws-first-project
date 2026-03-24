@@ -1,9 +1,24 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>My First AWS Project</title>
+<title>My Portfolio</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Hello! This is my first AWS website 🚀</h1>
-<p>Created by me</p>
+
+<h1>Hi, I'm [Your Name]</h1>
+<p>AWS & Tech Learner 🚀</p>
+
+<h2>About Me</h2>
+<p>I am learning cloud and building projects.</p>
+
+<h2>Projects</h2>
+<ul>
+<li>My First AWS Website</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: your@email.com</p>
+
 </body>
 </html>
